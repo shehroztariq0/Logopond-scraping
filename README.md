@@ -1,1 +1,1 @@
-# Logopond-scraping
+# This script is responsible for fetching all logos from logopond website along with its filename, description, title and keywords relevant to each logo. Maybe used for small scaled logo recommender tools or deep learning models.
