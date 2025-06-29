@@ -1,1 +1,10 @@
-# This script is responsible for fetching all logos from logopond website along with its filename, description, title and keywords relevant to each logo. Maybe used for small scaled logo recommender tools or deep learning models.
+This script scrapes thousands of logos from [Logopond](https://logopond.com), along with their associated metadata including:
+
+- **Filename**
+- **Title**
+- **Description**
+- **Relevant keywords**
+
+The collected data can be useful for small-scale **logo recommendation systems**, **design inspiration tools**, or as input for **deep learning models** in tasks like image classification, style analysis, or visual search.
+
+> ⚠️ Use responsibly and respect [Logopond’s](https://logopond.com) terms of service.
